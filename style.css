@@ -84,6 +84,18 @@ img {
     width: 100%;
   }
 
+  #lezioni.container>.row{
+    background-color: lightgoldenrodyellow;
+  }
+
+  #steps.container.grey{
+    background-color: white;
+  }
+
+  #why.container.grey{
+    background-color: lightgoldenrodyellow;
+    }
+
   #steps .row>.left, #steps .row>.central, #steps .row>.right {
     float: none;
     display: inline-block;
